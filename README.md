@@ -49,7 +49,8 @@ To overcome these challenges, the company needs to:
 
 The goal of this project is to create a detailed **Sales and Finance Report** for **Atliq Hardware** covering the period **2019–2021**. This report will help management make strategic decisions to improve efficiency and drive sustained growth.
 
- <img src="https://github.com/user-attachments/assets/5b58baaa-2c2d-4346-aba1-ce7bff901add" width="500"/>
+<img src="https://github.com/user-attachments/assets/6cda7788-8aa2-4f9d-b4a9-07275ca97fea" width="500"/>
+
 
 ---
 
@@ -107,8 +108,6 @@ The Finance Report includes the following:
 - **Profit & Loss by Financial Months**
 - **Profit & Loss by Market**
 - **Gross Margin % by Financial Quarters**
-
-<img src="https://github.com/user-attachments/assets/6cda7788-8aa2-4f9d-b4a9-07275ca97fea" width="500"/>
 
 ---
 
