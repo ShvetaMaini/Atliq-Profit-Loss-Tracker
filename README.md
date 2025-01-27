@@ -108,6 +108,8 @@ The Finance Report includes the following:
 - **Profit & Loss by Market**
 - **Gross Margin % by Financial Quarters**
 
+<img src="https://github.com/user-attachments/assets/6cda7788-8aa2-4f9d-b4a9-07275ca97fea" width="500"/>
+
 ---
 
 ## 🔑 Key Insights
